@@ -114,6 +114,9 @@ class PokerHand(Hand):
                         return True
                 count=0
         return False
+    
+    def test_Repo():
+        pass
 
 if __name__ == '__main__':
     # make a deck
